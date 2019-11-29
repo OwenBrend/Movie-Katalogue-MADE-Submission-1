@@ -1,0 +1,197 @@
+<resources>
+    <string name="app_name">SubmissionPertama</string>
+    <string name="title_movie">title_movie</string>
+    <string name="lorem">lorem</string>
+    <string name="rating">rating</string>
+    <string name="director">director</string>
+    <string name="runTime">runtTIme</string>
+    <string name="detail">detail</string>
+    <string name="language">language</string>
+    <string name="status">status</string>
+    <string name="budget">budget</string>
+    <string name="revanue">revanue</string>
+    <string name="genres">genres</string>
+
+    <string-array name="data_title">
+        <item>Aquaman</item>
+        <item>Hunter Killer</item>
+        <item>A Star Is Born</item>
+        <item>Avenger Infinity</item>
+        <item>Bird Box</item>
+        <item>Preman Pensiun</item>
+        <item>Rupinder Gandhi 2 - The Robinhood</item>
+        <item>Venom</item>
+        <item>Glass</item>
+        <item>Petes Dragon</item>
+        <item>Super Dragon Ball Heroes</item>
+    </string-array>
+
+    <string-array name="date_release">
+        <item>December 7, 2018</item>
+        <item>October 19, 2018</item>
+        <item>October 3, 2018</item>
+        <item>April 25, 2018</item>
+        <item>December 13, 2018</item>
+        <item>January 17, 2019</item>
+        <item>September 8, 2017</item>
+        <item>September 28, 2018</item>
+        <item>January 16, 2019</item>
+        <item>August 10, 2016</item>
+        <item>February 26, 1986</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people…</item>
+        <item>Captain Glass of the USS Arkansas discovers that a coup detat is taking place in Russia, so he and his crew join an elite group working on the ground to prevent a war.</item>
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even…</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one movie to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy…</item>
+        <item>Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</item>
+        <item>After three years, the business of Muslihat (Epi Kusnandar), who has retired as a thug, has a problem. Sales decline. Muslihat also faces new problems when Safira (Safira Maharani), her only daughter, grows up in…</item>
+        <item>This is a story of a brave man who fought and won against all odds, Sarpanch Rupinder Singh Gandhi, a prolific sportsman, daring leader and true friend. This movie shows how circumstances and situations converts…</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect…</item>
+        <item>In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence…</item>
+        <item>For years, old wood carver Mr. Meacham has delighted local children with his tales of the fierce dragon that resides deep in the woods of the Pacific Northwest. To his daughter, Grace, who works as a forest ranger…</item>
+        <item>Trunks returns from the future to train with Goku and Vegeta. However, it disappears without warning. Then the mysterious Fu bursts in, telling them that Trunks has been imprisoned in the Prison Planet, a mysterious…</item>
+    </string-array>
+
+    <array name="data_photo">
+        <item>@drawable/aquaman</item>
+        <item>@drawable/hunterkiller</item>
+        <item>@drawable/a_star</item>
+        <item>@drawable/avengerinfinity</item>
+        <item>@drawable/birdbox</item>
+        <item>@drawable/preman</item>
+        <item>@drawable/robinhood</item>
+        <item>@drawable/venom</item>
+        <item>@drawable/glass</item>
+        <item>@drawable/dragon</item>
+        <item>@drawable/superdragon</item>
+    </array>
+
+    <string-array name="data_director">
+        <item>James Wan</item>
+        <item>Donova Marsh</item>
+        <item>Brandley Cooper</item>
+        <item>Joe Russo, Anthony Russo</item>
+        <item>Susanne Bier</item>
+        <item>Aris Nugraha</item>
+        <item>Avtar Singh</item>
+        <item>Ruben Fleischer</item>
+        <item>M. Night Shyamalan</item>
+        <item>David Lowery</item>
+        <item>Akira Toriyama</item>
+    </string-array>
+
+    <string-array name="data_rating">
+        <item>68%</item>
+        <item>64%</item>
+        <item>75%</item>
+        <item>83%</item>
+        <item>70%%</item>
+        <item>65%</item>
+        <item>70%</item>
+        <item>66%</item>
+        <item>66%</item>
+        <item>63%</item>
+        <item>73%</item>
+    </string-array>
+
+    <string-array name="data_runTime">
+        <item>2h 24m</item>
+        <item>2h 2m</item>
+        <item>2h 16m</item>
+        <item>2h 29m</item>
+        <item>2h 4m</item>
+        <item>1h 34m</item>
+        <item>2h 7m</item>
+        <item>1h 52m</item>
+        <item>2h 9m</item>
+        <item>1h 43m</item>
+        <item>10m</item>
+    </string-array>
+
+    <string-array name="data_detail">
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orms half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>Captain Glass of the USS Arkansas discovers that a coup d état is taking place in Russia, so he and his crew join an elite group working on the ground to prevent a war.</item>
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Allys career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>ive years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</item>
+        <item>After three years, the business of Muslihat (Epi Kusnandar), who has retired as a thug, has a problem. Sales decline. Muslihat also faces new problems when Safira (Safira Maharani), her only daughter, grows up in adolescence and begins to be visited by boys. A bigger problem: frictions between his former subordinates.</item>
+        <item>This is a story of a brave man who fought and won against all odds, Sarpanch Rupinder Singh Gandhi, a prolific sportsman, daring leader and true friend. This movie shows how circumstances and situations converts him into "Something -else" when he and his friends take decisions that end up making them Outlaws. The man who lived for other people and never worried what he was called ~ Robinhood or a Gangser</item>
+        <item>Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</item>
+        <item>In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.</item>
+        <item>For years, old wood carver Mr. Meacham has delighted local children with his tales of the fierce dragon that resides deep in the woods of the Pacific Northwest. To his daughter, Grace, who works as a forest ranger, these stories are little more than tall tales... until she meets Pete, a mysterious 10-year-old with no family and no home who claims to live in the woods with a giant, green dragon named Elliott. And from Petes descriptions, Elliott seems remarkably similar to the dragon from Mr. Meachams stories. With the help of Natalie, an 11-year-old girl whose father Jack owns the local lumber mill, Grace sets out to determine where Pete came from, where he belongs, and the truth about this dragon.</item>
+        <item>Trunks returns from the future to train with Goku and Vegeta. However, it disappears without warning. Then the mysterious Fu bursts in, telling them that Trunks has been imprisoned in the Prison Planet, a mysterious complex in an unknown place in the universes. The group seeks the dragon balls to free Trunks, but an endless battle awaits them! Will Goku and the others rescue Trunks and escape the Prison Planet?</item>
+    </string-array>
+
+    <string-array name="data_status">
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Released</item>
+        <item>Returning Series</item>
+    </string-array>
+
+    <string-array name="data_language">
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>English</item>
+        <item>Indonesia</item>
+        <item>Panjabi</item>
+        <item>English</item>
+        <item>Indonesian</item>
+        <item>English</item>
+        <item>Japanese</item>
+    </string-array>
+
+    <string-array name="data_budget">
+        <item>$160,000,000.00	</item>
+        <item>-</item>
+        <item>$36,000,000.00</item>
+        <item>$300,000,000.00</item>
+        <item>$19,800,000.00</item>
+        <item>-</item>
+        <item>-</item>
+        <item>$116,000,000.00</item>
+        <item>$20,000,000.00</item>
+        <item>$65,000,000.00</item>
+        <item>-</item>
+    </string-array>
+
+    <string-array name="data_revenue">
+        <item>$1,143,689,193.00</item>
+        <item>-</item>
+        <item>$433,888,866.00</item>
+        <item>$2,046,239,637.00</item>
+        <item>-</item>
+        <item>-</item>
+        <item>-</item>
+        <item>$855,013,954.00</item>
+        <item>$246,941,965.00</item>
+        <item>$143,695,338.00</item>
+        <item>-</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action, Thriller</item>
+        <item>Drama, Romance</item>
+        <item>Adventure, Action</item>
+        <item>Thriller, Drama</item>
+        <item>Comedy, Drama</item>
+        <item>Lifestyle, Gang</item>
+        <item>Science Fiction, Action</item>
+        <item>Thriller, Drama</item>
+        <item>Adventure, Family</item>
+        <item>Kids, Animation</item>
+    </string-array>
+
+</resources>
